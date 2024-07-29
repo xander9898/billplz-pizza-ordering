@@ -1,0 +1,15 @@
+{
+    "name": "xande/billplz-pizza-ordering",
+    "autoload": {
+        "psr-4": {
+            "Xander\\PizzaOrder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xander Tan",
+            "email": "xanderthemaster@gmail.com"
+        }
+    ],
+    "require": {}
+}
